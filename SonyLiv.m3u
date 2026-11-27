@@ -2,24 +2,9 @@
 # ==========================================
 # Developed by: Shawon
 # Telegram: https://t.me/+VqDOF_-beaQyMWY1
-# Last Updated: 2026-11-27 07:34:29 (BD Time)
-# Channels Count: 6
+# Last Updated: 2026-11-27 17:54:05 (BD Time)
+# Channels Count: 1
 # ==========================================
 
-#EXTINF:-1 tvg-id="1090556666_ENG" tvg-name="2nd Test - Day 1 - 27 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 27 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795784409~acl=/*~id=44620218884179498257481561315864~hmac=ccedd82a3042c5bfafb06d42af5aea874692706c68bca06a778a10926e79a079
-
-#EXTINF:-1 tvg-id="1090556666_HIN" tvg-name="2nd Test - Day 1 - 27 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 27 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795784409~acl=/*~id=44620218884179498257481561315864~hmac=ccedd82a3042c5bfafb06d42af5aea874692706c68bca06a778a10926e79a079
-
-#EXTINF:-1 tvg-id="1090556666_TAM" tvg-name="2nd Test - Day 1 - 27 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 27 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795784409~acl=/*~id=44620218884179498257481561315864~hmac=ccedd82a3042c5bfafb06d42af5aea874692706c68bca06a778a10926e79a079
-
-#EXTINF:-1 tvg-id="1090556666_TEL" tvg-name="2nd Test - Day 1 - 27 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 27 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795784409~acl=/*~id=44620218884179498257481561315864~hmac=ccedd82a3042c5bfafb06d42af5aea874692706c68bca06a778a10926e79a079
-
-#EXTINF:-1 tvg-id="1090556666_KAN" tvg-name="2nd Test - Day 1 - 27 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 27 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795784409~acl=/*~id=44620218884179498257481561315864~hmac=ccedd82a3042c5bfafb06d42af5aea874692706c68bca06a778a10926e79a079
-
-#EXTINF:-1 tvg-id="1090556910_ENG" tvg-name="BMW Australian PGA Championship - Day 2 - 27 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg" group-title="Golf",BMW Australian PGA Championship - Day 2 - 27 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795784409~acl=/*~id=44620218884179498257481561315864~hmac=ccedd82a3042c5bfafb06d42af5aea874692706c68bca06a778a10926e79a079
+#EXTINF:-1 tvg-id="1090556911_ENG" tvg-name="Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="Cricket",Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795819677~acl=/*~id=78973381526161956875363365212627~hmac=4099769193cd881806b44beffe620bd38c00309688305479785dc8c6a1bc6073
